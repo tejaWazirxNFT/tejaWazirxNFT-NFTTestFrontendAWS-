@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Bro Green
+          Bro Blue
         </a>
       </header>
     </div>
